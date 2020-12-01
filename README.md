@@ -1,4 +1,4 @@
-# Pandas-challenge
+# PANDAS CHALLENGE
 
 # PyCitySchools
 
@@ -24,7 +24,8 @@ As a first task, you've been asked to analyze the district-wide standardized tes
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
 
-* Results
+* **Results**
+
 ![District Summary](Images/district_summary.png)
 
 ### School Summary
@@ -41,7 +42,8 @@ As a first task, you've been asked to analyze the district-wide standardized tes
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
 
-* Results (First 5 lines)
+* **Results (First 5 lines)**
+
 ![School Summary](Images/school_summary_head.png)
 
 ### Top Performing Schools (By % Overall Passing)
@@ -58,28 +60,32 @@ As a first task, you've been asked to analyze the district-wide standardized tes
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
 
-* Results
+* **Results**
+
 ![Top Performing Schools](Images/top_performing_schools.png)
 
 ### Bottom Performing Schools (By % Overall Passing)
 
 * Create a table that highlights the bottom 5 performing schools based on % Overall Passing. Include all of the same metrics as above.
 
-* Results
+* **Results**
+
 ![Bottom Performing Schools](Images/bottom_performing_schools.png)
 
 ### Math Scores by Grade
 
 * Create a table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
-* Results
+* **Results**
+
 ![Math Scores by Grade](Images/math_score_by_grade.png)
 
 ### Reading Scores by Grade
 
 * Create a table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
-* Results
+* **Results**
+
 ![Reading Scores by Grade](Images/reading_score_by_grade.png)
 
 ### Scores by School Spending
@@ -91,22 +97,26 @@ As a first task, you've been asked to analyze the district-wide standardized tes
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
 
-* Results
+* **Results**
+
 ![Scores by School Spending](Images/scores_by_school_spending.png)
 
 ### Scores by School Size
 
 * Repeat the above breakdown, but this time group schools based on a reasonable approximation of school size (Small, Medium, Large).
 
-* Results
+* **Results**
+
 ![Scores by School Size](Images/scores_by_school_size.png)
 
 ### Scores by School Type
 
 * Repeat the above breakdown, but this time group schools based on school type (Charter vs. District).
 
-* Results
+* **Results**
+
 ![Scores by School Type](Images/scores_by_school_type.png)
+
 
 
 ## PyCitySchools Analysis
@@ -116,6 +126,7 @@ As a first task, you've been asked to analyze the district-wide standardized tes
 * Math and reading score data by grade does not reveal any significant variance or trends as they appear consistent across schools.
 
 * The overall passing rate shows that top performing schools were small to medium sized charter schools and the bottom performing schools were large, district schools.
+
 
 ### Copyright
 
