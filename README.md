@@ -119,13 +119,15 @@ As a first task, you've been asked to analyze the district-wide standardized tes
 
 
 
+
+
 ## PyCitySchools Analysis
 
-* Top 5 performing schools have in average a lower budget per student that the bottom 5 performing schools suggesting that the lower performance is not necessarily monetary related.
+* The top 5 performing schools have a lower budget (in average) per student than the bottom 5 performing schools suggesting that the lower performance is not primarily monetary related.
 
-* Math and reading score data by grade does not reveal any significant variance or trends as they appear consistent across schools.
+* Math and reading score data by grade does not reveal any significant variance or trends; in fact they appear to be consistent across all schools.
 
-* The overall passing rate shows that top performing schools were small to medium sized charter schools and the bottom performing schools were large, district schools.
+* The overall passing rate shows a relation between top performing schools and small to medium sized charter schools whereas the bottom performing schools were associated to large district schools.
 
 
 ### Copyright
